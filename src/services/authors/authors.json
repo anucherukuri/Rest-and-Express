@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Diego",
+        "surname": "Banovaz",
+        "email": "diegobanovaz@gmail.com",
+        "date of birth": "22-Feb-1993",
+        "createdAt": "2022-03-01T15:34:05.567Z",
+        "id": "3dvx5wxal08aiqdb"
+    },
+    {
+        "name": "Daniele",
+        "surname": "Banovaz",
+        "email": "danielbanovaz@gmail.com",
+        "date of birth": "08-Sep-1990",
+        "createdAt": "2022-03-01T15:36:02.708Z",
+        "id": "3dvx5wxal08al8r8"
+    },
+    {
+        "name": "Stefano",
+        "surname": "Casassola",
+        "email": "stefanocasassola@gmail.com",
+        "date of birth": "26-Apr-1988",
+        "createdAt": "2022-03-01T15:36:51.698Z",
+        "id": "3dvx5wxal08amak2"
+    },
+    {
+        "name": "Stefano",
+        "surname": "Miceli",
+        "email": "stefanomiceli@gmail.com",
+        "date of birth": "18-Jan-1989",
+        "createdAt": "2022-03-01T15:37:26.624Z",
+        "id": "3dvx5wxal08an1i8"
+    },
+    {
+        "name": "Lidia",
+        "surname": "Kovac",
+        "email": "stefanomiceli@gmail.com",
+        "date of birth": "12-May-1995",
+        "createdAt": "2022-03-01T15:37:59.821Z",
+        "id": "3dvx5wxal08anr4d"
+    },
+    {
+        "name": "Ubeyt",
+        "surname": "Demir",
+        "email": "ubeytdemir@gmail.com",
+        "date of birth": "24-June-1994",
+        "createdAt": "2022-03-01T15:38:44.790Z",
+        "id": "3dvx5wxal08aopti",
+        "updatedAt": "2022-03-01T15:41:29.269Z"
+    }
+]

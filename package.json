@@ -1,0 +1,31 @@
+{
+  "name": "rest-and-express",
+  "version": "1.0.0",
+  "description": "node_modules/ # Rest and Express  M5-D2",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -e js src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anucherukuri/Rest-and-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anucherukuri/Rest-and-Express/issues"
+  },
+  "homepage": "https://github.com/anucherukuri/Rest-and-Express#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-list-endpoints": "^6.0.0",
+    "uniqid": "^5.4.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
